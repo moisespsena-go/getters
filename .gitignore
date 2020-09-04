@@ -13,3 +13,5 @@
 
 # Hidden files
 .*
+*.swp
+~*
